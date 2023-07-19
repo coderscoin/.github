@@ -1,5 +1,5 @@
 ## Hi there 👋
-We're CSC
+We're CodersCoin!
 [Join our Discord server!](https://discord.gg/ACvDfS3RDC)
 <!--
 
