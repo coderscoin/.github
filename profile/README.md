@@ -1,4 +1,5 @@
 ## Hi there 👋
+We're CSC
 [Join our Discord server!](https://discord.gg/ACvDfS3RDC)
 <!--
 
