@@ -7,7 +7,8 @@ We're CodersCoin!
 To support CodersCoin's development, you can send some cryptocurrency to our wallets!
 
 * Bitcoin: `bc1q3ce5wl2g2v38a9pcs6fplr4qet0z4g4s47383j`
-* Ethereum: `0x6FFCf35687F40eb38699A66c2FA9cDA4a0e0aBB6`
+* Ethereum / Polygon: `0x6FFCf35687F40eb38699A66c2FA9cDA4a0e0aBB6`
+* Litecoin: `ltc1qn35vhgnhjrksttp92vnqxcejhxyyyrk0w2vh7n`
 * Solana: `H8daSH5EDAtCa3ZCRJb9WoYFyyH8QT7rEbVG9izCEbA6`
 * CodersCoin: `csc.6eeddf6f133ac189824ebb702a6b5e`
 <!--
