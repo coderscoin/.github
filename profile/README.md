@@ -1,6 +1,12 @@
-## Hi there 👋
+# Hi there 👋
+
 We're CodersCoin!
 [Join our Discord server!](https://discord.gg/ACvDfS3RDC)
+
+## Donation
+To support CodersCoin's development, you can send some cryptocurrency to our wallets!
+
+*Bitcoin: `bc1q3ce5wl2g2v38a9pcs6fplr4qet0z4g4s47383j`
 <!--
 
 **Here are some ideas to get you started:**
